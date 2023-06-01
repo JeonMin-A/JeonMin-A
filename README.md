@@ -1,16 +1,19 @@
-<h5 align="center">
-    Hey! Im Mina
-</h5>
-<h5 align="center">
-    and I'm currently studying for Front-end Development!
-</h5>
+
 </br>
+<p align="center">
+    Hey! Im <span style="color: #8258FA"><b>MINA</b></span>
+</p>
+<p align="center">
+    and I'm currently studying for <span style="color: #088A4B"><b>Front-end Development</b></span>!
+</p>
+<br>
+<br>
 <!-- 
     Skills
  -->
-<h5 align="center">Skills</h5>
 <div align="center">
-  <p>Language, Frame work, etc...</p>
+<h5 align="center">Skills</h5>
+  <p>(Language, Frame work, etc...)</p>
   <!--  Vue  -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--  JavaScript  -->
@@ -62,7 +65,9 @@
   <!--  Figma  -->
   <!--  Gmail  -->
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <!--  Sass  -->
+  <!--  Notion  -->
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <!--  velog  -->
   <a href="https://velog.io/@jeonminah13" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <!--  GitHub  -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
