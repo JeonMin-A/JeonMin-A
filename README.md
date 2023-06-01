@@ -24,7 +24,9 @@
   <a href="https://velog.io/@jeonminah13" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 
-<div align="center">![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=cobalt)</div>
+<div align="center">
+  ![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=cobalt)
+</div>
 
 
 
