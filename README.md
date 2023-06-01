@@ -24,8 +24,7 @@
   <a href="https://velog.io/@jeonminah13" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 
-[![Solved.ac
-JeonMin-A](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=JeonMin-A)](https://solved.ac/JeonMin-A/)
 
 
 
