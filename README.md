@@ -24,10 +24,8 @@
   <a href="https://velog.io/@jeonminah13" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 
-![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=dracula)
-![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=tokyonight)
-![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=cobalt)
-![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=synthwave)
+<div align="center">![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=cobalt)</div>
+
 
 
 
