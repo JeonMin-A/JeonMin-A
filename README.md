@@ -27,6 +27,15 @@
 ![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=radical)
 ![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=dracula)
 
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=merko)
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=gruvbox)
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=tokyonight)
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=onedark)
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=cobalt)
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=highcontrast)
+![JeonMin-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonMin-A&show_icons=true&theme=synthwave)
+
+
 
 
 
