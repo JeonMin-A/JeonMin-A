@@ -41,10 +41,6 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
   <!--  npm  -->
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-  <!--  googlechrome  -->
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-  <!--  homebrew  -->
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white"/>
 </div>
 <!-- 
     Team Collaboration Tool
@@ -62,11 +58,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
    <!--  Notion  -->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </br>
-   <!--  canva  -->
-  <img src="https://img.shields.io/badge/canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-   <!--  Discord  -->
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </div>
   </br>
   <div align="center">
